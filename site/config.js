@@ -11,7 +11,7 @@ window.SITE = {
     "Driving Mechanisms for Rapid Intensification ",
     "Cyclones Intensity Forecasting with XAI",
   ],
-  Societies: ["IMS, IMECaN, OSI, SAMA, IPCC ECR Network, IIOE II ECR Network, GSCD (Carbon Brief)"],
+  Societies: ["IMS, IMECaN, OSI, SAMA, IPCC ECR Network, IIOE II ECR Network, GSCD Carbon Brief"],
   links: {
     email: "cc23resch11002@iith.ac.in",          // "you@example.com"
     scholar: "",        // Google Scholar profile URL
